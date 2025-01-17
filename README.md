@@ -7,7 +7,6 @@ A simple yet elegant web-based tool to view and test embed codes in real-time wi
 - Smooth animations for a delightful user experience.
 - Responsive and modern design.
 - Interactive iframe preview with animations.
-- Footer with copyright information.
 
 ## How to Use
 1. Clone the repository:
